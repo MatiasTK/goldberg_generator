@@ -1,0 +1,8 @@
+__pycache__
+*_output
+backup
+emulator
+login_temp
+creds.ini
+app_list.json
+generate_emu_config_unmodified.py
